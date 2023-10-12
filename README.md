@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BrauQu
+- 👀 I’m interested in technology, nature, culture and many other interesting topics.
+- 🌱 I’m currently learning how to create and manage different technologies using the best practices.

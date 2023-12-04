@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrauQu. I am a tourism professional, photographer and audiophile, specialized in Finnish Lapland who felt in love with technology at a young age but decided to go all the way in 2020. I am in my third-year of Business Information Technology studies in Finland. I enjoy combining time in the forest and snowy hills with the digital world. I love nature, culture, music, and sports.
-- 👀 Since childhood I loved opening electronics and playing with their parts. When I bought my first smartphone I was frustrated about the amount of memory available to the user so I decided to do justice with my own hands by rooting the device, changing some internal files and modifying some folders to allocate the internal memory to a memory card. I ended up solving the original problem and customising many other internal cool features. Since then, I have been more seriously playing with gadjets and software tools.
-- 🌱 I have been done some web development and basic programming projects with Java, JavaScript and Python. I would love to dive deeper with some open source projects. I’m currently learning more about frameworks such as Agile, DevOps, API integrations for creating and managing different technologies using the best practices.
-- You can find more information about me: https://www.linkedin.com/in/braulio-quirola
+- 👋 Hi, I’m @BrauQu. I am an Business Information Technology student based in Finland.  
+- 👀 I love technology and creativity.
+- 🌱 I want to create useful digital tools.
+- More info: https://www.linkedin.com/in/braulio-quirola

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrauQu. I am an Business Information Technology student based in Finland.  
+- 👋 Hi, I’m @BrauQu. I am a Business Information Technology graduate based in Finland. 
 - 👀 I love technology and creativity.
-- 🌱 I want to create useful digital tools.
+- 🌱 I enjoy developing useful digital tools.
 - More info: https://www.linkedin.com/in/braulio-quirola
